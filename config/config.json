@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "replication",
+    "password": "secret",
+    "database": "IAG2015",
+    "host": "10.60.0.75",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "replication",
+    "password": "secret",
+    "database": "database_test",
+    "host": "10.60.0.75",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "replication",
+    "password": "secret",
+    "database": "database_production",
+    "host": "10.60.0.75",
+    "dialect": "mssql"
+  }
+}
